@@ -7,6 +7,7 @@ public class HelloWorld {
 		
 		System.out.println("hello world");
 		System.out.println("This is the first change, to demostrate Git");
+		System.out.println("Canvi realitzat per l'Àlex");
 	}
 
 }
